@@ -7,7 +7,7 @@ authors: [KairusDarkSeeker, JackMD]
 depend: EconomyAPI
 commands:
   sell:
-    description: "Sells the item in your hand or all of your inventory's contents"
+    description: "Sell Items"
     permission: sell.command
 permissions:
   sell:
