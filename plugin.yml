@@ -7,7 +7,7 @@ authors: [KairusDarkSeeker, JackMD]
 depend: EconomyAPI
 commands:
   sell:
-    description: "sell items"
+    description: "Sell Items Command"
     permission: sell.command
 permissions:
   sell:
